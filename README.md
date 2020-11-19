@@ -2,5 +2,5 @@
 simple git test repo
 
 # release notes
-release 1.0.0 is almost done
+this is release 1.0.0!
 
